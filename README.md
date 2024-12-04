@@ -56,7 +56,7 @@ Desarrollar una skill para Alexa para poder acceder al clima mediante la ubicaci
 | Captura | Descripción | 
 |:-------------:|:---------------|
 | <img src="https://github.com/user-attachments/assets/1815d075-1ff8-4160-9256-f247e9aec77f"  width="300" height="100" style="margin-bottom: 5px;"> |En la parte superior haz click en `Test`, coloca `Alexa, Abre` acompañado del nombre de tu skill.
-| <img src="https://github.com/user-attachments/assets/f4c69fc1-fa14-4a6b-b439-a94d2588d771"  width="300" height="100" style="margin-bottom: 5px;"> |Para culminar, realiza una pregunta para poder interactuar con tu Skill de Alexa que haz realizado.|
+| <img src="assets/img/resultado.png"  width="300" height="100" style="margin-bottom: 5px;"> |Para culminar, realiza una pregunta para poder interactuar con tu Skill de Alexa que haz realizado.|
 
 ## Resultados
 
